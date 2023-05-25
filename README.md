@@ -1,4 +1,1 @@
-- 👋 Hi, I’m @ArturasTv
-- 👀 I’m interested in fullstack web development
-- 🌱 I’m currently learning ReactJS, Sass, JavaScript, NodeJS, MongoDB, C++, C#, .net, MySQL, TypeScript...
-- 📫 You can reach me on arturastvaronas@inbox.lt
+
